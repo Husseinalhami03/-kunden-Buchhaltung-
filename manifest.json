@@ -1,0 +1,9 @@
+{
+  "name": "Kunden-Tagebuch",
+  "short_name": "Kunden-Tagebuch",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f2ed",
+  "theme_color": "#17120f",
+  "icons": []
+}
