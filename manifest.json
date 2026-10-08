@@ -1,9 +1,1 @@
-{
-  "name": "Kunden-Tagebuch",
-  "short_name": "Kunden-Tagebuch",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#f6f2ed",
-  "theme_color": "#17120f",
-  "icons": []
-}
+{"name":"Kunden-Tagebuch","short_name":"Kunden-Tagebuch","start_url":"./","display":"standalone","background_color":"#f6f2ed","theme_color":"#211b17","icons":[]}
